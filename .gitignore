@@ -1,3 +1,5 @@
 *
 !tmux.conf
 !.gitignore
+!module/
+!module/*.sh
